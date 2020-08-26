@@ -5,9 +5,9 @@ Creazione di un form
 - Pulizia dei campi e delle evenutuali classi aggiunte
 
 utilizzo di:
-location.href 
-espressioni regolari
-classList.remove('')
-classList.add(')
-classList.contains('')
-document.form.submit()
+- location.href 
+- espressioni regolari
+- classList.remove('')
+- classList.add(')
+- classList.contains('')
+- document.form.submit()
